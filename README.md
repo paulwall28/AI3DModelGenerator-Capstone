@@ -3,7 +3,7 @@
 1. Create an kaggle account for free via email/username and password
 
 # How to launch app
-1. Import notebook in kaggle (See attached image)
+1. Download and Import notebook in kaggle (See attached image)
    ![image](https://github.com/user-attachments/assets/fb2d9ad5-be98-460b-a9f2-d9d1c4519899)
 
 3. Download and Import Dataset by clicking the link below
